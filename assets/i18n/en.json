@@ -1,9 +1,11 @@
 {
     "TabHome": "Home",
-    "TabCategory": "Category",
     "TabCart": "Cart",
-    "TabMine": "Mine",
+    "SettingChangePassword": "Change Password",
 
+    
+    "TabCategory": "Category",
+    "TabMine": "Mine",
     "CategoryViewAll": "View All",
     
     "CartUseCouponTitle": "User a Coupon",
@@ -14,7 +16,7 @@
     "CartCouponPlaceHolder": "input coupon code",
     
     "Setting": "Setting",
-    "SettingChangePassword": "Change Password",
+    
     "SettingCurrentCountry": "Current Country",
     "SettingCurrentLanguage": "Current Language",
     "SettingCurrentCurrency": "Current Currency",
