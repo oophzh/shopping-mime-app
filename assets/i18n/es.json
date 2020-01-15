@@ -5,24 +5,33 @@
     "TabMine": "我的",
    
     "CategoryViewAll": "全部",
+    
+    "DetailDiscount": "优惠",
+
 
     "CartUseCouponTitle": "使用优惠码",
     "CartUseCoupon": "请选择优惠码",
     "CartProductTitle": "商品列表",
     "CartDeleteTitle": "确认删除此产品吗？",
-    "CartNoCoupon": "暂无优惠码",  
+    "CartNoCoupon": "暂无优惠码",
+    "CartCouponPlaceHolder": "请输入优惠码",
 
     "Setting": "设置",
     "MineWelcome": "你好, {{name}}",
     "MineViewedTitle": "最近浏览",
-    
+    "MineSign": "签到",
+
     "SettingChangePassword": "修改密码",
     "SettingCurrentCountry": "当前国家",
     "SettingCurrentLanguage": "当前语言",
     "SettingCurrentCurrency": "当前货币",
 
+    "SettingUpdateApp": "版本更新",
+
     "SettingChangeUserInfo": "修改用户信息",
     "SettingAvatar": "头像",
+    "SettingChangeAvatarHint": "只支持JPG, GIF, PNG, JPEG, BMP格式, 文件要小于4M",
+    "SettingChangeAvatarSizeHint": "图片必须小于4M",
 
     "ChangeCurrencyTitle": "修改货币",
     "ChangeLanguageTitle": "修改语言",
@@ -70,14 +79,18 @@
     "CountryNull": "请选择国家",
     "TelephoneNull": "请输入电话号码",
     "EmailNull": "请输入邮箱地址",
+    "EmailError": "请输入正确的邮箱地址",
     "CardNoNull": "请输入信用卡卡号",
     "CardDateNull": "请输入信用卡有效时间",
     "CardCVVNull": "请输入信用卡CVV",
     "PasswordNull": "请输入密码",
+    "PasswordError": "请输入正确的密码",
     "ConfirmPasswordNull": "请确认密码",
     "PasswordNotMatch": "输入密码不一致",
     "OldPasswordNull": "请输入旧密码",
     "NewPasswordNull": "请输入新密码",
+    "CodeNull": "请输入验证码",
+    "CodeError": "请输入正确的验证码",
 
     "CommoneWaitting": "请稍等...",
     "CommoneSearchHint": "请输入商品名称",
@@ -87,7 +100,7 @@
     "CommonRefreshingText": "正在刷新...",
     "CommonLoadingText": "加载更多数据...",
 
-    "CommonOk": "确定",
+    "CommonOk": "Ok",
     "CommonConfirm": "确认",
     "CommonSuccess": "成功",
     "CommonFail": "失败",
@@ -95,7 +108,9 @@
     "QuitAppTitle": "您要退出APP吗?",
     "QuitBtn": "退出",
     "TimeoutTitle": "请求超时,请稍后再试!",
-
+    
+    "UpdateAppTitle": "有新版本，是否更新?",
+    "LatestAppTitle": "已经是最新版本",
     "DownloadProgress": "已下载 {{progress}}",
     
     "HomeNewArrival": "Novedades",

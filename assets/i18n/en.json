@@ -1,12 +1,13 @@
 {
     "TabHome": "Home",
-    "TabCart": "Cart",
-    "SettingChangePassword": "Change Password",
-
-    
     "TabCategory": "Category",
+    "TabCart": "Cart",
     "TabMine": "Mine",
+
     "CategoryViewAll": "View All",
+    
+    "DetailDiscount": "Discount",
+
     
     "CartUseCouponTitle": "User a Coupon",
     "CartUseCoupon": "Please select Coupon",
@@ -16,7 +17,11 @@
     "CartCouponPlaceHolder": "input coupon code",
     
     "Setting": "Setting",
-    
+    "MineWelcome": "Hi, {{name}}",
+    "MineViewedTitle": "Recently Viewed",
+    "MineSign": "Sign",
+
+    "SettingChangePassword": "Change Password",
     "SettingCurrentCountry": "Current Country",
     "SettingCurrentLanguage": "Current Language",
     "SettingCurrentCurrency": "Current Currency",
@@ -117,9 +122,6 @@
     "CartGrandTotal": "Sub Total",
     "CartApplyText": "Apply",
 
-    "MineWelcome": "Hi, {{name}}",
-    "MineSign": "Sign",
-    "MineViewedTitle": "Recently Viewed",
     "MineCouponHint": "Create account and enjoy your coupon code!",
     "MyOrder": "My Order",
     "MyFavorites": "My Favorite",
@@ -164,8 +166,6 @@
     "DetailEasyReturnsTitle": "Easy 365-Day Returns",
     "DetailEasyReturnsContent": "We are committed to your total satisfaction. If, for any reason, you are not associated tax, within 365 business days of receipt of the item(s). To receive either a credit toward an exchange or a credit on your charge account, please note that all returns and exchanges must be in new, unused or unworn condition with the original tags and stickers attached. Items deemed worn, used, dirty or missing tags will be returned to purchaser at their expense and no refund will be issued. Women''swimwear is eligible for return only if the sanitary liner is place. Underwear, Customized and personalized items are not returnable. Since lost return shipments are the responsibility of the customer, be sure to obtain a tracking number from the courier for the return shipment.",
     "DetailAddToCart": "Add to Cart",
-    "DetailQty": "Qty",
-    "DetailDiscount": "Discount",
 
     "ShippingFastShipping": "FAST SHIPPING",
     "ShippingFastShippingDesc": "Order ship within 24 hours.",
