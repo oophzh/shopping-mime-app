@@ -8,13 +8,14 @@
     
     "DetailDiscount": "Descuento",
 
-
     "CartUseCouponTitle": "Usar código de cupón",
     "CartUseCoupon": "Por favor seleccione un cupón",
     "CartProductTitle": "Lista de productos",
     "CartDeleteTitle": "¿Estás seguro de que deseas eliminar este producto?",
     "CartNoCoupon": "Sin cupones",
     "CartCouponPlaceHolder": "Por favor ingrese el cupón",
+
+    "CartAddItem": "Mucho más artículos",
 
     "Setting": "Configurar",
     "MineWelcome": "Hola, {{name}}",
